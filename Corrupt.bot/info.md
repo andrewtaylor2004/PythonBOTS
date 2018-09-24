@@ -1,4 +1,4 @@
-#Corrupt.bot
+Corrupt.bot
 
 Corrupt.bot is a Python bot that will give you settings for 3 corruptors:
   Windows Glitch Harvester (WGH)
